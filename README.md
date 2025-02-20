@@ -12,7 +12,8 @@ Data Filtering: Functionality to filter data based on product category, gender, 
 User-Friendly Interface: A seamless and intuitive interface for stakeholders to access and explore insights.
 
 ## 3. Solution Overview
-![Data Flow](images\dataflow.png)
+<img src="images\dataflow.png" alt="Data Flow" width="600">
+
 
 To meet these requirements, the solution is structured into the following components:
 
