@@ -12,6 +12,8 @@ Data Filtering: Functionality to filter data based on product category, gender, 
 User-Friendly Interface: A seamless and intuitive interface for stakeholders to access and explore insights.
 
 ## 3. Solution Overview
+![Data Flow](images\adf.drawio.png)
+
 To meet these requirements, the solution is structured into the following components:
 
 ### 1. Data Ingestion
